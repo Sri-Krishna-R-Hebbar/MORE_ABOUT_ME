@@ -1,0 +1,140 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.middle{
+    background-color: #c1e1ec ;
+}
+.intro{
+    height:600px;
+    color:#D00000;
+}
+.name {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #ffecd1;
+    color:#D00000;
+}
+.main-name{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color: #ffecd1;
+    color:#D00000;
+}
+.introduction{
+    text-align: center;
+    font-size: 20px;
+    color: #ffecd1;
+    color:#D00000;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 715px;
+    margin-top: 150px;
+}
+.background-image{
+    height: 600px;
+    width: 1800px;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    border-bottom: 3px solid #032B43;
+}
+.preface{
+    text-align: center;
+    color:#D00000;
+    background-color: #c1e1ec ;
+    border-bottom: 3px solid #032B43;
+}
+.hi{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 100;
+}
+.secondintro{
+    font-family: 'Outfit', sans-serif;
+    font-size: 25px;
+    font-weight: 200;
+    height: 90px;
+    width:900px;
+    margin-left: 360px;
+}
+.skills{
+    background-color: #c1e1ec ;
+    height: 300px;
+    color:#5D3A00;
+    border-bottom: 3px solid #032B43;
+}
+.skill-heading{
+    text-align: center;
+}
+.programming{
+    float:left;
+    width:90vh;
+    background-color: #c1e1ec ;
+    font-size: 30px;
+    border: 5px solid #032B43;
+    margin-left: 30px;
+}
+.programmingpic{
+    height:220px;
+    width: 200px;
+    float:left;
+}
+
+.introonprogram{
+    color:#D00000;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 10px;
+}
+.web-developement{
+    float:right;
+    width:90vh;
+    background-color: #c1e1ec ;
+    border: 5px solid #032B43;
+    margin-right: 30px;
+}
+.webdevpic{
+    height:220px;
+    width: 200px;
+    float:left;
+}
+.introonwebdev{
+    color:#D00000;
+    font-size: 30px;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 20px;
+}
+.contact{
+    border-bottom: 3px solid #032B43;
+    height: 120px;
+}
+.contactme{
+    text-align: center;
+    color:#5D3A00;
+}
+.linkedin{
+    color:#D00000;
+    text-decoration: none;
+    font-size: 30px;
+    border: 5px solid #032B43;
+    margin-left: 580px;
+
+}
+.mail{
+    color:#D00000;
+    text-decoration: none;
+    font-size: 30px;
+    border: 5px solid #032B43;
+    margin-left: 120px;
+}
+
+.footer{
+    background-color: #c1e1ec ;
+    border-bottom: 3px solid #032B43;
+    color:#D00000;
+}
